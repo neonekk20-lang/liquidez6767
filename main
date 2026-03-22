@@ -1354,4 +1354,4 @@ end)
 
 -- Init
 updateTabVisibility()
-notify("LiquidEz zaladowany! RightShift = toggle", 3)
+notify("RightShift = toggle", 3)
